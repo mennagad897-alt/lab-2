@@ -4,8 +4,8 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #blue;    text-align: center;
-    background-color: #736d6d; /* السطر ده ممتاز تعملوا فيه Conflict */
+    /* background-color: #blue;     */
+    background-color: #736d6d; 
     text-align: center;
 }
 
